@@ -90,8 +90,11 @@ Material changes will be communicated clearly.
 For privacy or security-related inquiries:
 
 **BYLICKILABS – Intelligence Systems & Communications**  
-Email: security@bylickilabs.com  
-Website: https://github.com/bylickilabs  
+Email: bylicki@mail.de
+
+> Website: 
+  - https://bylickilabs.de
+  - https://bylickilabs.com
 
 ---
 
