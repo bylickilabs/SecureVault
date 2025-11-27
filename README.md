@@ -16,11 +16,11 @@ Intelligence Systems & Communications
 
 ### 🧭 Übersicht
 
-**SecureVault** ist eine hochsichere Anwendung zur lokalen Speicherung vertraulicher Daten in verschlüsselter Form.  
-Alle Dateien werden in einer **einzigen Containerdatei (.svc)** abgelegt, die vollständig mit modernsten kryptografischen Verfahren gesichert ist.  
-Während einer Sitzung werden Inhalte ausschließlich im Arbeitsspeicher entschlüsselt – niemals auf der Festplatte im Klartext abgelegt.
+> SecureVault ist eine hochsichere Anwendung zur lokalen Speicherung vertraulicher Daten in verschlüsselter Form.  
+  - Alle Dateien werden in einer **einzigen Containerdatei (.svc)** abgelegt, die vollständig mit modernsten kryptografischen Verfahren gesichert ist.  
+  - Während einer Sitzung werden Inhalte ausschließlich im Arbeitsspeicher entschlüsselt – niemals auf der Festplatte im Klartext abgelegt.
 
-SecureVault wurde entwickelt, um **professionelle Datensicherheit, kompromisslose Offline-Verschlüsselung und Zero-Trust-Prinzipien** in einer benutzerfreundlichen Oberfläche zu vereinen.
+> SecureVault wurde entwickelt, um **professionelle Datensicherheit, kompromisslose Offline-Verschlüsselung und Zero-Trust-Prinzipien** in einer benutzerfreundlichen Oberfläche zu vereinen.
 
 ---
 
