@@ -37,7 +37,7 @@ Main components:
 - AEAD encryption (AES-GCM or XChaCha20-Poly1305)
 - Structured header + compressed JSON payload
 
-See: `CRYPTOGRAPHY.md`
+See: [CRYPTOGRAPHY](CRYPTOGRAPHY.md)
 
 ---
 
