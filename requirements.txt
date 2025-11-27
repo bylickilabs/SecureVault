@@ -1,0 +1,8 @@
+# SecureVault - Requirements
+# BYLICKILABS – Intelligence Systems & Communications
+# Tested with Python >= 3.10
+
+PySide6
+cryptography
+PyNaCl
+argon2-cffi
