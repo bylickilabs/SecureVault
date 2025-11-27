@@ -29,9 +29,11 @@ We strongly encourage responsible disclosure.
 
 To report a security issue, please contact:
 
-**Email:** bylicki@mail.de
-**PGP:** Available upon request  
-**Contact Form:** GitHub Issues may be used for *non-sensitive* matters  
+> **Email:** bylicki@mail.de
+
+> **PGP:** Available upon request  
+
+> **Contact Form:** GitHub Issues may be used for *non-sensitive* matters  
 
 Please include:
 - A clear description of the vulnerability
