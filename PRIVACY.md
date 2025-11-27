@@ -56,7 +56,7 @@ Data protection is enforced using strong cryptography:
 - Argon2id password-based key derivation
 - No plaintext storage or password caching on disk
 
-Technical encryption standards are detailed in `CRYPTOGRAPHY.md`.
+Technical encryption standards are detailed in [CRYPTOGRAPHY](CRYPTOGRAPHY.md)
 
 ---
 
@@ -75,7 +75,7 @@ The software is **fully independent** from third-party data services.
 SecureVault uses open, verifiable technologies.  
 The source code may be reviewed for transparency and security assurance.
 
-Users are encouraged to report security concerns responsibly via the contact listed in `SECURITY.md`.
+Users are encouraged to report security concerns responsibly via the contact listed in [SECURITY](SECURITY.md)
 
 ---
 
